@@ -1,7 +1,7 @@
 ---
 name: submission
 about: Submission of data analysis project for peer review
-title: 'Submission: <PROJECT_TITLE>'
+title: 'Submission: <GROUP_NUMBER: PROJECT_TITLE>'
 labels: ''
 assignees: ''
 
@@ -15,6 +15,6 @@ assignees: ''
 
 
 **Editor:** @flor14 
-**Reviewer:** Pending
+**Reviewer:** <REVIEWER1> <REVIEWER2> <REVIEWER3>
 
 - [ ] I agree to abide by [MDS's Code of Conduct](https://ubc-mds.github.io/resources_pages/code_of_conduct/) during the review process and in maintaining my package should it be accepted.
