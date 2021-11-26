@@ -5,10 +5,11 @@ This repository is the home to the UBC Master of [Data Science Workflows course]
 ## Peer review process
 
 ### Submission
-
+1. Open an issue in this repository and fill in the issue template.
 
 ### Review
-
+1. Copy the [MDS data analysis review checklist and outline](https://raw.githubusercontent.com/UBC-MDS/data-analysis-review-checklist/main/data-analysis-review-checklist.md) into the issue for the data analysis project you were assigned to review.
+2. Complete the checklist, and provide kind and constructive review comments to help the authors improve their data analysis projects.
 
 ## Editors
 - [Florencia D'Andrea](https://florencia.netlify.app/)
